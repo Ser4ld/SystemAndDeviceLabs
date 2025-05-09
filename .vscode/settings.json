@@ -82,6 +82,7 @@
         "numbers": "cpp",
         "text_encoding": "cpp",
         "variant": "cpp",
-        "barrier": "cpp"
+        "barrier": "cpp",
+        "future": "cpp"
     }
 }
